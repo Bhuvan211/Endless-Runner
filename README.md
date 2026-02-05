@@ -47,5 +47,10 @@ Minor bug fix in animations, player controll and audio.
 
 4-02-2026
 
-Settings and  HighScore Menu Creation.
+Level Design. 
 
+Logic creation for infinite level.
+
+Coins Random Spawning and Optimizations.
+
+Power-Ups Creation.
